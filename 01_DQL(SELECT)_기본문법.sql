@@ -151,8 +151,9 @@ SELECT
 	   , PATIENT_NAME;
 
 
-
-
+-- git add .
+-- git commit -m "작업한내용"
+-- git push origin master
 	
 	
 
